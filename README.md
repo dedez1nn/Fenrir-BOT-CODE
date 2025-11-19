@@ -37,11 +37,11 @@ Fenrir-BOT é um bot de Discord completo com sistema de economia próprio, progr
 ## Instalação
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/Fenrir-BOT.git
+git clone https://github.com/dedez1nn/Fenrir-BOT-CODE.git
 
 Copiar código
 2. Entre na pasta do projeto:
-cd Fenrir-BOT
+cd Fenrir-BOT-CODE
 
 Copiar código
 3. Instale as dependências:
